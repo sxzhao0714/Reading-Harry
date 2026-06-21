@@ -1,0 +1,12 @@
+/* 隐藏指定的文件夹，将引号里的名字换成你想隐藏的文件夹名 */
+.nav-folder:has(.nav-folder-title[data-path="copilot"]) {
+    display: none !important;
+}
+
+/* 如果你想同时隐藏多个文件夹，可以像下面这样逗号分隔并列写 */
+/*
+.nav-folder:has(.nav-folder-title[data-path="copilot"]),
+.nav-folder:has(.nav-folder-title[data-path="00_Meta_Workbench"]) {
+    display: none !important;
+}
+*/

@@ -1,0 +1,21 @@
+# 强制同步 Copilot 的对话数据
+!/.obsidian/plugins/copilot-obsidian/*.json
+!/.obsidian/plugins/copilot-obsidian/chats/
+
+.obsidian/workspace.json
+
+# 忽略 Copilot 的本地索引数据库
+.copilot/
+# 如果你还生成了其他本地模型缓存，也可以一并忽略
+.obsidian/plugins/copilot/cache/
+.obsidian/plugins/copilot/data.json
+
+.obsidian/appearance.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/copilot-index-*.json
+.obsidian/plugins/obsidian-english-made-easy/data.json
+
+__pycache__/
+
+.smart-env/
