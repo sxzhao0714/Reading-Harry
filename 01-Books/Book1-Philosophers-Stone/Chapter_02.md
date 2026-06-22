@@ -83,130 +83,128 @@ Dudley’s mouth fell open in horror, but Harry’s <mark class="eme-highlight e
 
 “Don’t be silly, Vernon, she hates the boy.”
 
-The Dursleys often spoke about Harry like this, as though he wasn’t there — or rather, as though he was something very nasty that couldn’t understand them, like a slug.
+The Dursleys often spoke about Harry like this, as though he wasn’t there — or rather, as though he was something very <mark class="eme-highlight eme-h-yellow" data-id="edee1531-a19c-4866-b405-25d7c0529bd4">nasty</mark> that couldn’t understand them, like a slug.
 
 “What about what’s-her-name, your friend — Yvonne?”
 
-“On vacation in Majorca,” snapped Aunt Petunia.
+“On vacation in Majorca,” <mark class="eme-highlight eme-h-blue" data-id="a5518f3f-7c1e-446c-b426-9a295d028a8a">snapped</mark> Aunt Petunia.
 
-“You could just leave me here,” Harry put in hopefully (he’d be able to watch what he wanted on television for a change and maybe even have a go on Dudley’s computer).
+“You could just leave me here,” Harry put in hopefully (he’d be able to watch what he wanted on television <mark class="eme-highlight eme-h-green" data-id="f89b7669-eb9c-4786-879d-865fffeaeda9">for a change</mark> and maybe even <mark class="eme-highlight eme-h-green" data-id="68c62030-5c8a-4c14-adc3-6898e3a50715">have a go</mark> on Dudley’s computer).
 
 Aunt Petunia looked as though she’d just swallowed a lemon.
 
-“And come back and find the house in ruins?” she snarled.
+“And come back and find the house in ruins?” she <mark class="eme-highlight eme-h-yellow" data-id="5888aa0b-86dc-45cb-b9d2-dc261300aae1">snarled</mark>.
 
-“I won’t blow up the house,” said Harry, but they weren’t listening.
+“I won’t <mark class="eme-highlight eme-h-green" data-id="57a70220-6af1-432f-a4bb-21004506715f">blow up</mark> the house,” said Harry, but they weren’t listening.
 
 “I suppose we could take him to the zoo,” said Aunt Petunia slowly, “… and leave him in the car. …”
 
 “That cars new, he’s not sitting in it alone. …”
 
-Dudley began to cry loudly. In fact, he wasn’t really crying — it had been years since he’d really cried — but he knew that if he screwed up his face and wailed, his mother would give him anything he wanted.
+Dudley began to cry loudly. In fact, he wasn’t really crying — it had been years since he’d really cried — but he knew that if he <mark class="eme-highlight eme-h-green" data-id="6384b6fb-b098-44ed-845a-44d0fd41ad4e">screwed up his face</mark> and <mark class="eme-highlight eme-h-yellow" data-id="b6bfab2d-a6fb-43e6-9936-bc14e4aaaf67">wailed</mark>, his mother would give him anything he wanted.
 
-“Dinky Duddydums, don’t cry, Mummy won’t let him spoil your special day!” she cried, flinging her arms around him.
+“Dinky Duddydums, don’t cry, Mummy won’t let him <mark class="eme-highlight eme-h-yellow" data-id="57fe607f-fa5d-4165-8d48-0f502701bc0e">spoil</mark> your special day!” she cried, <mark class="eme-highlight eme-h-blue" data-id="2f81f36a-35d9-45e9-996c-14732e751ed7">flinging her arms around him</mark>.
 
-“I … don’t … want … him … t-t-to come!” Dudley yelled between huge, pretend sobs. “He always sp-spoils everything!” He shot Harry a nasty grin through the gap in his mother's arms.
+“I … don’t … want … him … t-t-to come!” Dudley yelled between huge, pretend <mark class="eme-highlight eme-h-yellow" data-id="a81ad1d6-a350-4fa7-aa85-dc20baa7d822">sobs</mark>. “He always sp-spoils everything!” He shot Harry a nasty <mark class="eme-highlight eme-h-yellow" data-id="628ca285-c0e5-4bd9-ad57-953dba183d2c">grin</mark> through the <mark class="eme-highlight eme-h-yellow" data-id="d1a3cfc9-cb38-4f75-8164-da5610c4c779">gap</mark> in his mother's arms.
 
-Just then, the doorbell rang — “Oh, good Lord, they’re here!” said Aunt Petunia frantically — and a moment later, Dudley’s best friend, Piers Polkiss, walked in with his mother. Piers was a scrawny boy with a face like a rat. He was usually the one who held people’s arms behind their backs while Dudley hit them. Dudley stopped pretending to cry at once.
+Just then, the doorbell rang — “Oh, good Lord, they’re here!” said Aunt Petunia <mark class="eme-highlight eme-h-yellow" data-id="3aa5514b-d7d3-46e2-aecf-6cbef645ffd1">frantically</mark> — and a moment later, Dudley’s best friend, Piers Polkiss, walked in with his mother. Piers was a <mark class="eme-highlight eme-h-yellow" data-id="547d95e5-96eb-4107-ad7c-216502f69d38">scrawny</mark> boy with a face like a rat. He was usually the one who held people’s arms behind their backs while Dudley hit them. Dudley stopped pretending to cry at once.
 
 Half an hour later, Harry, who couldn’t believe his luck, was sitting in the back of the Dursleys’ car with Piers and Dudley, on the way to the zoo for the first time in his life. His aunt and uncle hadn’t been able to think of anything else to do with him, but before they’d left, Uncle Vernon had taken Harry aside.
 
-“I’m warning you,” he had said, putting his large purple face right up close to Harry’s, “I’m warning you now, boy — any funny business, anything at all — and you’ll be in that cupboard from now until Christmas.”
+“I’m warning you,” he had said, putting his large purple face <mark class="eme-highlight eme-h-green" data-id="3f9caad0-27ee-4976-99e6-7311981a6fdf">right up</mark> close to Harry’s, “I’m warning you now, boy — any <mark class="eme-highlight eme-h-green" data-id="f6cc998e-c712-40f8-99ac-3a7697d69fa0">funny business</mark>, anything at all — and you’ll be in that cupboard from now until Christmas.”
 
-I’m not going to do anything,” said Harry, “honestly …”
+“I’m not going to do anything,” said Harry, “honestly …”
 
 But Uncle Vernon didn’t believe him. No one ever did.
 
-The problem was, strange things often happened around Harry and it was just no good telling the Dursleys he didn’t make them happen.
+The problem was, strange things often happened around Harry and it was just <mark class="eme-highlight eme-h-green" data-id="ae871fbe-a69d-4d70-b2fe-01faf793f69b">no good</mark> telling the Dursleys he didn’t make them happen.
 
-Once, Aunt Petunia, tired of Harry coming back from the barbers looking as though he hadn’t been at all, had taken a pair of kitchen scissors and cut his hair so short he was almost bald except for his bangs, which she left “to hide that horrible scar.” Dudley had laughed himself silly at Harry, who spent a sleepless night imagining school the next day, where he was already laughed at for his baggy clothes and taped glasses. Next morning, however, he had gotten up to find his hair exactly as it had been before Aunt Petunia had sheared it off. He had been given a week in his cupboard for this, even though he had tried to explain that he couldn’t explain how it had grown back so quickly.
+Once, Aunt Petunia, tired of Harry coming back from the <mark class="eme-highlight eme-h-yellow" data-id="d25285f0-3d76-42a1-ae1d-9ac080c6a1ef">barbers</mark> looking as though he hadn’t been at all, had taken a pair of kitchen <mark class="eme-highlight eme-h-yellow" data-id="299defd8-6fac-4c4a-8ca3-ed8d292bd1ce">scissors</mark> and cut his hair so short he was almost <mark class="eme-highlight eme-h-yellow" data-id="264f30ee-5310-449b-8e87-53048369f4a2">bald</mark> except for his <mark class="eme-highlight eme-h-yellow" data-id="ff5c7697-030e-47b8-be06-69a0017ff8b0">bangs</mark>, which she left “to hide that horrible scar.” Dudley had <mark class="eme-highlight eme-h-blue" data-id="b1b541fd-e5a3-4215-822b-2e86612c3e4a">laughed himself silly</mark> at Harry, who spent a sleepless night imagining school the next day, where he was already laughed at for his <mark class="eme-highlight eme-h-yellow" data-id="9ce81d5e-acbf-40a9-9476-d77896dbdec9">baggy</mark> clothes and <mark class="eme-highlight eme-h-yellow" data-id="da3573a5-ec6b-4187-a41b-05f3ecbae52a">taped</mark> glasses. Next morning, however, he had gotten up to find his hair exactly as it had been before Aunt Petunia had <mark class="eme-highlight eme-h-yellow" data-id="c918e730-0884-4c8c-88e5-f19c40bfa3b0">sheared</mark> it off. He had been given a week in his cupboard for this, even though he had tried to explain that he couldn’t explain how it had grown back so quickly.
 
-Another time, Aunt Petunia had been trying to force him into a revolting old sweater of Dudley’s (brown with orange puff balls). The harder she tried to pull it over his head, the smaller it seemed to become, until finally it might have fitted a hand puppet, but certainly wouldn’t fit Harry. Aunt Petunia had decided it must have shrunk in the wash and, to his great relief, Harry wasn’t punished.
+Another time, Aunt Petunia had been trying to force him into a <mark class="eme-highlight eme-h-yellow" data-id="27ee298c-4781-4754-95de-b68820ae6114">revolting</mark> old sweater of Dudley’s (brown with orange <mark class="eme-highlight eme-h-green" data-id="c9666fba-289c-4e80-80a4-2f6bb1eac1a0">puff balls</mark>). The harder she tried to pull it over his head, the smaller it seemed to become, until finally it might have fitted a <mark class="eme-highlight eme-h-yellow" data-id="8329c8bf-f934-4b4c-9953-4feb14ceb835">hand puppet</mark>, but certainly wouldn’t fit Harry. Aunt Petunia had decided it must have shrunk in the wash and, to his great relief, Harry wasn’t punished.
 
-On the other hand, he’d gotten into terrible trouble for being found on the roof of the school kitchens. Dudley’s gang had been chasing him as usual when, as much to Harry’s surprise as anyone else’s, there he was sitting on the chimney. The Dursleys had received a very angry letter from Harry’s headmistress telling them Harry had been climbing school buildings. But all he’d tried to do (as he shouted at Uncle Vernon through the locked door of his cupboard) was jump behind the big trash cans outside the kitchen doors. Harry supposed that the wind must have caught him in mid-jump.
+On the other hand, he’d gotten into terrible trouble for being found on the roof of the school kitchens. Dudley’s <mark class="eme-highlight eme-h-yellow" data-id="0d787dde-74bb-482c-aaf9-1047a9a35c25">gang</mark> had been chasing him as usual when, as much to Harry’s surprise as anyone else’s, there he was sitting on the <mark class="eme-highlight eme-h-yellow" data-id="ecebb502-f038-48dd-be14-8bfd96a0cd0a">chimney</mark>. The Dursleys had received a very angry letter from Harry’s <mark class="eme-highlight eme-h-yellow" data-id="f0ce15c6-9f8f-44ff-a201-bf41fc8ef4a4">headmistress</mark> telling them Harry had been climbing school buildings. But all he’d tried to do (as he shouted at Uncle Vernon through the locked door of his cupboard) was jump behind the big <mark class="eme-highlight eme-h-yellow" data-id="30bfc8b3-ab0f-4678-8ab8-547ba2c57097">trash cans</mark> outside the kitchen doors. Harry supposed that the wind must have caught him in <mark class="eme-highlight eme-h-yellow" data-id="a9d7a2f6-b5ad-43e0-b3ab-becf880f2423">mid-jump</mark>.
 
 But today, nothing was going to go wrong. It was even worth being with Dudley and Piers to be spending the day somewhere that wasn’t school, his cupboard, or Mrs. Figg’s cabbage-smelling living room.
 
-While he drove, Uncle Vernon complained to Aunt Petunia. He liked to complain about things: people at work, Harry, the council, Harry, the bank, and Harry were just a few of his favorite subjects. This morning, it was motorcycles.
+While he drove, Uncle Vernon complained to Aunt Petunia. He liked to complain about things: people at work, Harry, the <mark class="eme-highlight eme-h-yellow" data-id="e63c8a55-f0fd-4681-8e47-9a729731f689">council</mark>, Harry, the bank, and Harry were just a few of his favorite subjects. This morning, it was motorcycles.
 
-“… roaring along like maniacs, the young hoodlums,” he said, as a motorcycle overtook them.
+“… roaring along like <mark class="eme-highlight eme-h-yellow" data-id="7bbdb50d-a5d4-411a-8b00-aaacf5644102">maniacs</mark>, <mark class="eme-highlight eme-h-green" data-id="8699c3bd-822a-46e1-8102-dedc0ea69a1f">the young hoodlums</mark>,” he said, as a motorcycle <mark class="eme-highlight eme-h-yellow" data-id="6b011328-204b-4574-8083-e05f791c10ec">overtook</mark> them.
 
 “I had a dream about a motorcycle,” said Harry, remembering suddenly. “It was flying.”
 
-Uncle Vernon nearly crashed into the car in front. He turned right around in his seat and yelled at Harry, his face like a gigantic beet with a mustache: “MOTORCYCLES DON’T FLY!”
+Uncle Vernon nearly crashed into the car in front. He turned right around in his seat and yelled at Harry, his face like a <mark class="eme-highlight eme-h-yellow" data-id="1673a3ca-6f64-420e-9db0-c74fa38753d6">gigantic</mark> <mark class="eme-highlight eme-h-yellow" data-id="0d460c96-1825-4032-9310-30315b54950f">beet</mark> with a mustache: “MOTORCYCLES DON’T FLY!”
 
-Dudley and Piers sniggered.
+Dudley and Piers <mark class="eme-highlight eme-h-yellow" data-id="edc262d0-28c7-4985-8e41-30455f9d88dd">sniggered</mark>.
 
 “I know they don’t,” said Harry. “It was only a dream.”
 
 But he wished he hadn’t said anything. If there was one thing the Dursleys hated even more than his asking questions, it was his talking about anything acting in a way it shouldn’t, no matter if it was in a dream or even a cartoon — they seemed to think he might get dangerous ideas.
 
-It was a very sunny Saturday and the zoo was crowded with families. The Dursleys bought Dudley and Piers large chocolate ice creams at the entrance and then, because the smiling lady in the van had asked Harry what he wanted before they could hurry him away, they bought him a cheap lemon ice pop. It wasn’t bad, either, Harry thought, licking it as they watched a gorilla scratching its head who looked remarkably like Dudley, except that it wasn’t blond.
+It was a very sunny Saturday and the zoo was crowded with families. The Dursleys bought Dudley and Piers large chocolate ice creams at the <mark class="eme-highlight eme-h-yellow" data-id="600b6b7a-74f9-4fb6-a3e4-74fb07743792">entrance</mark> and then, because the smiling lady in the <mark class="eme-highlight eme-h-yellow" data-id="6567bc59-ba85-45e5-a3d6-e239308371e3">van</mark> had asked Harry what he wanted before they could <mark class="eme-highlight eme-h-green" data-id="48abb6b0-5a38-49f6-b60c-724233af5aba">hurry him away</mark>, they bought him a cheap lemon ice pop. It wasn’t bad, either, Harry thought, <mark class="eme-highlight eme-h-yellow" data-id="b03bd5b1-8ac7-43e8-81eb-db73a6c23a1a">licking</mark> it as they watched a <mark class="eme-highlight eme-h-yellow" data-id="3a942b83-ee64-4ade-a4de-7f2d3616757a">gorilla</mark> <mark class="eme-highlight eme-h-yellow" data-id="49157bc5-dd41-42b7-bdf9-96f0c5ec7be5">scratching</mark> its head who looked <mark class="eme-highlight eme-h-yellow" data-id="88182fd3-6003-401c-80b6-5299d298237c">remarkably</mark> like Dudley, except that it wasn’t blond.
 
-Harry had the best morning he’d had in a long time. He was careful to walk a little way apart from the Dursleys so that Dudley and Piers, who were starting to get bored with the animals by lunchtime, wouldn’t fall back on their favorite hobby of hitting him. They ate in the zoo restaurant, and when Dudley had a tantrum because his knickerbocker glory didn’t have enough ice cream on top, Uncle Vernon bought him another one and Harry was allowed to finish the first.
+Harry had the best morning he’d had in a long time. He was careful to walk a little way apart from the Dursleys so that Dudley and Piers, who were starting to get bored with the animals by lunchtime, wouldn’t fall back on their favorite hobby of hitting him. They ate in the zoo restaurant, and when Dudley had a <mark class="eme-highlight eme-h-yellow" data-id="e879a1c7-ebf2-4ab4-99b4-dfa30b4891e3">tantrum</mark> because his <mark class="eme-highlight eme-h-yellow" data-id="3a1f2e0e-0da9-495a-8bcd-9fa410c05fd7">knickerbocker glory</mark> didn’t have enough ice cream on top, Uncle Vernon bought him another one and Harry was allowed to finish the first.
 
 Harry felt, afterward, that he should have known it was all too good to last.
 
-After lunch they went to the reptile house. It was cool and dark in there, with lit windows all along the walls. Behind the glass, all sorts of lizards and snakes were crawling and slithering over bits of wood and stone. Dudley and Piers wanted to see huge, poisonous cobras and thick, man-crushing pythons. Dudley quickly found the largest snake in the place. It could have wrapped its body twice around Uncle Vernon’s car and crushed it into a trash can — but at the moment it didn’t look in the mood. In fact, it was fast asleep.
+After lunch they went to the <mark class="eme-highlight eme-h-yellow" data-id="fbf4785d-aa4f-4617-b5cf-81303310d686">reptile</mark> house. It was cool and dark in there, with <mark class="eme-highlight eme-h-yellow" data-id="f8511786-2241-42f0-becd-0e42c3e51467">lit</mark> windows all along the walls. Behind the glass, all sorts of <mark class="eme-highlight eme-h-yellow" data-id="4eef1310-6702-4b1d-8e0e-ba8afef6d4af">lizards</mark> and snakes were crawling and <mark class="eme-highlight eme-h-yellow" data-id="ad57d08d-0930-46f2-ae02-d858be125a66">slithering</mark> over bits of wood and stone. Dudley and Piers wanted to see huge, poisonous cobras and thick, man-crushing <mark class="eme-highlight eme-h-yellow" data-id="cb01d540-bc31-4dc4-a60c-a00c455e093e">pythons</mark>. Dudley quickly found the largest snake in the place. It could have wrapped its body twice around Uncle Vernon’s car and crushed it into a trash can — but at the moment it didn’t look in the mood. In fact, it was <mark class="eme-highlight eme-h-yellow" data-id="a48a0d12-2103-4334-8783-b566e40b8c0d">fast asleep</mark>.
 
-Dudley stood with his nose pressed against the glass, staring at the glistening brown coils.
+Dudley stood with his nose pressed against the glass, staring at the <mark class="eme-highlight eme-h-yellow" data-id="3d0d9b44-9e60-4e9c-9fa5-6412c36714f2">glistening</mark> brown <mark class="eme-highlight eme-h-yellow" data-id="4878d8ba-280e-4739-a56e-131593cfe0ab">coils</mark>.
 
-“Make it move,” he whined at his father. Uncle Vernon tapped on the glass, but the snake didn’t budge.
+“Make it move,” he <mark class="eme-highlight eme-h-yellow" data-id="3ca0df3f-fce9-4f42-ae8b-549149aab856">whined</mark> at his father. Uncle Vernon <mark class="eme-highlight eme-h-yellow" data-id="7e87de22-e72a-4eca-b3df-7a47bca9d31c">tapped</mark> on the glass, but the snake didn’t <mark class="eme-highlight eme-h-yellow" data-id="bb0fa1d7-c41c-41aa-96e3-1446e1736398">budge</mark>.
 
-“Do it again,” Dudley ordered. Uncle Vernon rapped the glass smartly with his knuckles, but the snake just snoozed on.
+“Do it again,” Dudley ordered. Uncle Vernon <mark class="eme-highlight eme-h-yellow" data-id="d98e9ec7-4c6a-48bf-9e88-0c17fc19eefc">rapped</mark> the glass <mark class="eme-highlight eme-h-yellow" data-id="4e0c3c23-e190-44cb-8c7e-43eae13e4643">smartly</mark> with his <mark class="eme-highlight eme-h-yellow" data-id="579b046f-9b2b-46c6-b291-d815731c715b">knuckles</mark>, but the snake just <mark class="eme-highlight eme-h-yellow" data-id="5c8d66c4-0e39-4892-a36e-f20a06ef269a">snoozed</mark> on.
 
-“This is boring,” Dudley moaned. He shuffled away.
+“This is boring,” Dudley <mark class="eme-highlight eme-h-yellow" data-id="ad3bc4c7-910a-47ca-a3ae-ffa3c27fb45a">moaned</mark>. He <mark class="eme-highlight eme-h-green" data-id="acf0e5f0-ec78-4ce5-a242-0fd076d754cd">shuffled away</mark>.
 
-Harry moved in front of the tank and looked intently at the snake. He wouldn’t have been surprised if it had died of boredom itself — no company except stupid people drumming their fingers on the glass trying to disturb it all day long. It was worse than having a cupboard as a bedroom, where the only visitor was Aunt Petunia hammering on the door to wake you up; at least he got to visit the rest of the house.
+Harry moved in front of the tank and looked <mark class="eme-highlight eme-h-yellow" data-id="360bbb5d-71ab-4fe9-be4f-9c901c1ac013">intently</mark> at the snake. He wouldn’t have been surprised if it had died of <mark class="eme-highlight eme-h-yellow" data-id="fe46a705-63e5-4ab9-890f-f2c055780b36">boredom</mark> itself — no company except stupid people <mark class="eme-highlight eme-h-yellow" data-id="b2b80b38-7bdb-41aa-9349-bb84f1c959c2">drumming</mark> their fingers on the glass trying to disturb it all day long. It was worse than having a cupboard as a bedroom, where the only visitor was Aunt Petunia <mark class="eme-highlight eme-h-yellow" data-id="e907fccd-49a3-437b-b0b4-4dc915f13f09">hammering</mark> on the door to wake you up; at least he got to visit the rest of the house.
 
-The snake suddenly opened its beady eyes. Slowly, very slowly, it raised its head until its eyes were on a level with Harry’s.
+The snake suddenly opened its <mark class="eme-highlight eme-h-yellow" data-id="deaa63f2-27b4-47a8-b758-a8065e923a0f">beady</mark> eyes. Slowly, very slowly, it raised its head until its eyes were on a level with Harry’s.
 
 It winked.
 
 Harry stared. Then he looked quickly around to see if anyone was watching. They weren’t. He looked back at the snake and winked, too.
 
-The snake jerked its head toward Uncle Vernon and Dudley, then raised its eyes to the ceiling. It gave Harry a look that said quite plainly:
+The snake jerked its head toward Uncle Vernon and Dudley, then raised its eyes to the ceiling. It gave Harry a look that said quite <mark class="eme-highlight eme-h-yellow" data-id="ae723f62-9f84-494f-a5e8-070fe1d445c6">plainly</mark>:
 
 “I get that all the time.”
 
-“I know,” Harry murmured through the glass, though he wasn’t sure the snake could hear him. “It must be really annoying.”
+“I know,” Harry <mark class="eme-highlight eme-h-yellow" data-id="8b808bdd-97d8-4d64-af08-9e1b0f4b7498">murmured</mark> through the glass, though he wasn’t sure the snake could hear him. “It must be really <mark class="eme-highlight eme-h-yellow" data-id="b3a9f8d8-8c86-4154-b1fa-a84fde7caf23">annoying</mark>.”
 
-The snake nodded vigorously.
+The snake nodded <mark class="eme-highlight eme-h-yellow" data-id="41929001-e129-4f74-b92f-5c92bc34d585">vigorously</mark>.
 
 “Where do you come from, anyway?” Harry asked.
 
-The snake jabbed its tail at a little sign next to the glass. Harry peered at it.
+The snake <mark class="eme-highlight eme-h-yellow" data-id="c8ea6802-24b5-434a-8bdb-4141cdb94222">jabbed</mark> its tail at a little sign next to the glass. Harry <mark class="eme-highlight eme-h-yellow" data-id="1d05269d-330b-49f2-85f0-6f7ef520d6d4">peered</mark> at it.
 
-Boa Constrictor, Brazil.
+<mark class="eme-highlight eme-h-yellow" data-id="7fdc775e-6d64-4385-b978-89cb30e206b7">Boa Constrictor</mark>, Brazil.
 
 “Was it nice there?”
 
-The boa constrictor jabbed its tail at the sign again and Harry read on: This specimen was bred in the zoo. “Oh, I see — so you’ve never been to Brazil?”
+The boa constrictor jabbed its tail at the sign again and Harry read on: This <mark class="eme-highlight eme-h-yellow" data-id="f08bab41-30ad-48ad-8773-e26b6a6b1371">specimen</mark> was bred in the zoo. “Oh, I see — so you’ve never been to Brazil?”
 
-As the snake shook its head, a deafening shout behind Harry made both of them jump. “DUDLEY! MR. DURSLEY! COME AND LOOK AT THIS SNAKE! YOU WON’T BELIEVE WHAT IT’S DOING!”
+As the snake shook its head, a <mark class="eme-highlight eme-h-yellow" data-id="842d580a-3275-476e-8137-a0e92800222c">deafening</mark> shout behind Harry made both of them jump. “DUDLEY! MR. DURSLEY! COME AND LOOK AT THIS SNAKE! YOU WON’T BELIEVE WHAT IT’S DOING!”
 
-Dudley came waddling toward them as fast as he could.
+Dudley came <mark class="eme-highlight eme-h-yellow" data-id="c7799a9e-5eff-4f9b-acb7-d135fa083b92">waddling</mark> toward them as fast as he could.
 
-“Out of the way, you,” he said, punching Harry in the ribs. Caught by surprise, Harry fell hard on the concrete floor. What came next happened so fast no one saw how it happened — one second, Piers and Dudley were leaning right up close to the glass, the next, they had leapt back with howls of horror.
+“Out of the way, you,” he said, punching Harry in the ribs. <mark class="eme-highlight eme-h-green" data-id="811a48ea-f88c-47d4-8233-b81ba5825e6f">Caught by surprise</mark>, Harry fell hard on the <mark class="eme-highlight eme-h-yellow" data-id="700e2981-6951-470b-a795-5b61483279e3">concrete</mark> floor. What came next happened so fast no one saw how it happened — one second, Piers and Dudley were leaning right up close to the glass, the next, they had <mark class="eme-highlight eme-h-green" data-id="44c1783f-15c0-47e0-a17d-253ddacedc9b">leapt back</mark> with <mark class="eme-highlight eme-h-yellow" data-id="482e6824-95d9-468d-a616-04f3a8289bad">howls</mark> of horror.
 
-Harry sat up and gasped; the glass front of the boa constrictor’s tank had vanished. The great snake was uncoiling itself rapidly, slithering out onto the floor. People throughout the reptile house screamed and started running for the exits.
+Harry sat up and <mark class="eme-highlight eme-h-yellow" data-id="3a1ecbdc-8997-4bc5-badf-281866286939">gasped</mark>; the glass front of the boa constrictor’s tank had <mark class="eme-highlight eme-h-yellow" data-id="b18e5903-75a9-4f7b-bda5-a19f880fdfda">vanished</mark>. The great snake was <mark class="eme-highlight eme-h-yellow" data-id="fc5a3e3f-cd6f-407a-972b-14254455c118">uncoiling</mark> itself <mark class="eme-highlight eme-h-yellow" data-id="1bcf9500-695c-46c4-a176-b107630c97f6">rapidly</mark>, <mark class="eme-highlight eme-h-yellow" data-id="48507701-5d17-47a1-937c-2361f8b7b523">slithering</mark> out onto the floor. People <mark class="eme-highlight eme-h-yellow" data-id="8ed58c27-377b-4811-9493-de4cd29bd48d">throughout</mark> the reptile house screamed and started running for the exits.
 
-As the snake slid swiftly past him, Harry could have sworn a low, hissing voice said, “Brazil, here I come. … Thanksss, amigo.”
+As the snake <mark class="eme-highlight eme-h-yellow" data-id="494fcf65-0e10-419a-a874-2eb9fc51a30e">slid</mark> <mark class="eme-highlight eme-h-yellow" data-id="754645ae-098d-4c7b-b58c-c1bf0762f0de">swiftly</mark> past him, Harry could have sworn a low, <mark class="eme-highlight eme-h-yellow" data-id="6eb4c569-a5fa-424f-8af3-04daf336fbd0">hissing</mark> voice said, “Brazil, here I come. … Thanksss, <mark class="eme-highlight eme-h-yellow" data-id="59e2fa72-a995-4de1-bfd4-929523a52c46">amigo</mark>.”
 
-The keeper of the reptile house was in shock.
+The <mark class="eme-highlight eme-h-yellow" data-id="9aa154a3-7100-4b8c-a8ec-ec9b8de55932">keeper</mark> of the reptile house was in shock.
 
 “But the glass,” he kept saying, “where did the glass go?”
 
-The zoo director himself made Aunt Petunia a cup of strong, sweet tea while he apologized over and over again. Piers and Dudley could only gibber. As far as Harry had seen, the snake hadn’t done anything except snap playfully at their heels as it passed, but by the time they were all back in Uncle Vernon’s car, Dudley was telling them how it had nearly bitten off his leg, while Piers was swearing it had tried to squeeze him to death. But worst of all, for Harry at least, was Piers calming down enough to say, “Harry was talking to it, weren’t you, Harry?”
+The zoo director himself made Aunt Petunia a cup of <mark class="eme-highlight eme-h-green" data-id="451d9852-3ef1-4e5a-ae2d-211efd6c6158">strong, sweet tea</mark> while he apologized over and over again. Piers and Dudley could only <mark class="eme-highlight eme-h-yellow" data-id="022ca15e-0c3c-43d9-960a-841e026afc8f">gibber</mark>. As far as Harry had seen, the snake hadn’t done anything except <mark class="eme-highlight eme-h-yellow" data-id="969f0d0b-b5b8-413e-a356-0ed408e71a01">snap</mark> <mark class="eme-highlight eme-h-yellow" data-id="11c6abe2-b6ad-4a4a-b81a-132ba9c9b942">playfully</mark> at their heels as it passed, but by the time they were all back in Uncle Vernon’s car, Dudley was telling them how it had nearly bitten off his leg, while Piers was <mark class="eme-highlight eme-h-yellow" data-id="3d01c9b6-cfb5-4735-bec5-86bad3d9f08b">swearing</mark> it had tried to <mark class="eme-highlight eme-h-yellow" data-id="7f887404-cd8b-4da1-9281-51009ec15fdd">squeeze</mark> him to death. But worst of all, for Harry at least, was Piers calming down enough to say, “Harry was talking to it, weren’t you, Harry?”
 
-Uncle Vernon waited until Piers was safely out of the house before starting on Harry. He was so angry he could hardly speak. He managed to say, “Go — cupboard — stay — no meals,” before he collapsed into a chair, and Aunt Petunia had to run and get him a large brandy.
+Uncle Vernon waited until Piers was safely out of the house before starting on Harry. He was so angry he could hardly speak. He <mark class="eme-highlight eme-h-green" data-id="c8f1de7a-200c-4666-8c4f-da9936561257">managed to say</mark>, “Go — cupboard — stay — no meals,” before he <mark class="eme-highlight eme-h-yellow" data-id="39b8cf64-b996-4c8a-8aa3-49fd3bb69240">collapsed</mark> into a chair, and Aunt Petunia had to run and get him a large brandy.
 
+Harry lay in his dark cupboard <mark class="eme-highlight eme-h-green" data-id="0caee9d2-f0f7-42ae-9ff2-792bdf8b2aca">much later</mark>, wishing he had a watch. He didn’t know what time it was and he couldn’t be sure the Dursleys were asleep yet. Until they were, he couldn’t risk <mark class="eme-highlight eme-h-yellow" data-id="c508294f-cde0-4c8b-b325-ada2e119b98d">sneaking</mark> to the kitchen for some food.
 
+He’d lived with the Dursleys almost ten years, ten <mark class="eme-highlight eme-h-yellow" data-id="c83e24e8-6633-4d9a-a3ae-565c49414cbb">miserable</mark> years, as long as he could remember, ever since he’d been a baby and his parents had died in that car crash. He couldn’t remember being in the car when his parents had died. Sometimes, when he <mark class="eme-highlight eme-h-green" data-id="841b8854-4234-472c-b215-a42c9ac0d314">strained his memory</mark> during long hours in his cupboard, he came up with a strange vision: a blinding flash of green light and a burning pain on his forehead. This, he supposed, was the crash, though he couldn’t imagine where all the green light came from. He couldn’t remember his parents at all. His aunt and uncle never spoke about them, and of course he was <mark class="eme-highlight eme-h-yellow" data-id="78f6e0c4-50cb-477e-954d-fa6b7d0c8d56">forbidden</mark> to ask questions. There were no photographs of them in the house.
 
-Harry lay in his dark cupboard much later, wishing he had a watch. He didn’t know what time it was and he couldn’t be sure the Dursleys were asleep yet. Until they were, he couldn’t risk sneaking to the kitchen for some food.
-
-He’d lived with the Dursleys almost ten years, ten miserable years, as long as he could remember, ever since he’d been a baby and his parents had died in that car crash. He couldn’t remember being in the car when his parents had died. Sometimes, when he strained his memory during long hours in his cupboard, he came up with a strange vision: a blinding flash of green light and a burning pain on his forehead. This, he supposed, was the crash, though he couldn’t imagine where all the green light came from. He couldn’t remember his parents at all. His aunt and uncle never spoke about them, and of course he was forbidden to ask questions. There were no photographs of them in the house.
-
-When he had been younger, Harry had dreamed and dreamed of some unknown relation coming to take him away, but it had never happened; the Dursleys were his only family. Yet sometimes he thought (or maybe hoped) that strangers in the street seemed to know him. Very strange strangers they were, too. A tiny man in a violet top hat had bowed to him once while out shopping with Aunt Petunia and Dudley. After asking Harry furiously if he knew the man, Aunt Petunia had rushed them out of the shop without buying anything. A wild-looking old woman dressed all in green had waved merrily at him once on a bus. A bald man in a very long purple coat had actually shaken his hand in the street the other day and then walked away without a word. The weirdest thing about all these people was the way they seemed to vanish the second Harry tried to get a closer look.
+When he had been younger, Harry had dreamed and dreamed of some unknown relation coming to take him away, but it had never happened; the Dursleys were his only family. Yet sometimes he thought (or maybe hoped) that strangers in the street seemed to know him. Very strange strangers they were, too. A tiny man in a violet top hat had bowed to him once while out shopping with Aunt Petunia and Dudley. After asking Harry <mark class="eme-highlight eme-h-yellow" data-id="452acb77-4a98-4300-a216-7eeb8cde82f1">furiously</mark> if he knew the man, Aunt Petunia had rushed them out of the shop without buying anything. A <mark class="eme-highlight eme-h-yellow" data-id="980cad12-ae42-4ec8-8991-34ab075e2dc9">wild-looking</mark> old woman dressed all in green had waved <mark class="eme-highlight eme-h-yellow" data-id="d506d00c-210a-4d4c-9c64-d92091518c68">merrily</mark> at him once on a bus. A <mark class="eme-highlight eme-h-yellow" data-id="ac26c57d-1de1-471a-b253-7fbae3ef8603">bald</mark> man in a very long purple coat had actually shaken his hand in the street the other day and then walked away without a word. The <mark class="eme-highlight eme-h-yellow" data-id="211aac2d-2204-4b0b-9141-acc760bc1c4e">weirdest</mark> thing about all these people was the way they seemed to <mark class="eme-highlight eme-h-yellow" data-id="6b378b72-385e-4225-8b67-f66a6fca240e">vanish</mark> the second Harry tried to get a closer look.
 
 At school, Harry had no one. Everybody knew that Dudley’s gang hated that odd Harry Potter in his baggy old clothes and broken glasses, and nobody liked to disagree with Dudley’s gang.

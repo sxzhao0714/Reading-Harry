@@ -1,0 +1,17 @@
+# Petunia Dursley — Quotes
+
+> 抽取规则：该角色说的话（引号内台词 + 紧邻的说话动词，体现说话方式）。
+> 格式：`> 原文片段` + `— [[Chapter_xx]]` 双链。
+
+<!-- AI-MANAGED-START -->
+
+### From [[Chapter_01]]
+
+- > "No," she said sharply. "Why?"
+- > "So?" snapped Mrs. Dursley.
+- > "I suppose so," said Mrs. Dursley stiffly.
+- > "Harry. Nasty, common name, if you ask me."
+
+<!-- AI-MANAGED-END -->
+
+## 我的笔记
