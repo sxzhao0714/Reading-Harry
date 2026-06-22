@@ -7,7 +7,6 @@ read_date:
 last_analyzed: 
 characters_in_chapter: []
 ---
-
 # Chapter {{chapter}}: {{title}}
 
 ## 原文 Original
