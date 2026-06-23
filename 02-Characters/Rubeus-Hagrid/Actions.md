@@ -7,13 +7,13 @@
 
 ### From [[Chapter_01]]
 
-- > said the giant, climbing carefully off the motorcycle as he spoke.
-- > He bent his great, shaggy head over Harry and gave him what must have been a very scratchy, whiskery kiss.
-- > Hagrid let out a howl like a wounded dog.
-- > sobbed Hagrid, taking out a large, spotted handkerchief and burying his face in it.
-- > Hagrid's shoulders shook
-- > Wiping his streaming eyes on his jacket sleeve, Hagrid swung himself onto the motorcycle and kicked the engine into life
+-  said the giant, climbing carefully off the motorcycle as he spoke.
+-  He bent his great, shaggy head over Harry and gave him what must have been a very scratchy, whiskery kiss.
+-  Hagrid let out a howl like a wounded dog.
+-  sobbed Hagrid, taking out a large, spotted handkerchief and burying his face in it.
+-  Hagrid's shoulders shook
+-  Wiping his streaming eyes on his jacket sleeve, Hagrid swung himself onto the motorcycle and kicked the engine into life
 
 <!-- AI-MANAGED-END -->
 
-## 我的笔记
+# 我的笔记

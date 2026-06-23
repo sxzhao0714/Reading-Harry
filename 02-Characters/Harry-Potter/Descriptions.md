@@ -8,10 +8,26 @@
 
 ### From [[Chapter_01]]
 
-- > Under a tuft of jet-black hair over his forehead they could see a curiously shaped cut, like a bolt of lightning.
-- > One small hand closed on the letter beside him and he slept on, not knowing he was special, not knowing he was famous
+-  Under a tuft of jet-black hair over his forehead they could see a curiously shaped cut, like a bolt of lightning.
+
+### From [[Chapter_02]]
+
+-  Perhaps it had something to do with living in a dark cupboard, but Harry had always been small and skinny for his age.
+-  He looked even smaller and skinnier than he really was because all he had to wear were old clothes of Dudley's, and Dudley was about four times bigger than he was.
+-  Harry had a thin face, knobbly knees, black hair, and bright green eyes.
+-  He wore round glasses held together with a lot of Scotch tape because of all the times Dudley had punched him on the nose.
+-  The only thing Harry liked about his own appearance was a very thin scar on his forehead that was shaped like a bolt of lightning.
+-  Harry didn't look it, but he was very fast.
+-  the odd Harry Potter in his baggy old clothes and broken glasses
+
+### From [[Chapter_03]]
+
+-  his glasses dangling from one ear
 
 <!-- AI-MANAGED-END -->
 
-## 我的笔记
+# 我的笔记
 <!-- 你的观察、疑问、人物理解 -->
+个头比同龄人矮小、瘦弱.。
+瘦削的脸，膝盖瘦得突出，黑头发，亮绿色的眼睛。
+一副圆框眼镜、眼镜上贴满了透明胶带。

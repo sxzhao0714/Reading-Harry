@@ -8,12 +8,15 @@
 
 ### From [[Chapter_01]]
 
-- > He was almost twice as tall as a normal man and at least five times as wide.
-- > He looked simply too big to be allowed, and so wild — long tangles of bushy black hair and beard hid most of his face, he had hands the size of trash can lids, and his feet in their leather boots were like baby dolphins.
-- > a vast, muscular man
-- > [McGonagall → Hagrid] "I'm not saying his heart isn't in the right place, but you can't pretend he's not careless. He does tend to —"
+-  He was almost twice as tall as a normal man and at least five times as wide.
+-  He looked simply too big to be allowed, and so wild — long tangles of bushy black hair and beard hid most of his face, he had hands the size of trash can lids, and his feet in their leather boots were like baby dolphins.
+-  a vast, muscular man
+-  [McGonagall → Hagrid] "I'm not saying his heart isn't in the right place, but you can't pretend he's not careless. He does tend to —"
 
 <!-- AI-MANAGED-END -->
 
-## 我的笔记
+# 我的笔记
 <!-- 你的观察、疑问、人物理解 -->
+个头几乎是普通人的两倍；宽度至少是普通人的五倍。
+野性十足。纠结蓬乱的黑色头发和胡须遮住大半张脸，双手像垃圾桶盖那么大，皮靴里的双脚活像两只小海豚。
+魁梧、健壮的男人。

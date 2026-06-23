@@ -7,9 +7,9 @@
 
 ### From [[Chapter_01]] · Mentioned
 
-- > [Hagrid 述 / Dumbledore 默认确认] "Young Sirius Black lent it to me."
+-  [Hagrid 述 / Dumbledore 默认确认] "Young Sirius Black lent it to me."
   事实：小天狼星把飞天摩托借给海格运送婴儿哈利
 
 <!-- AI-MANAGED-END -->
 
-## 我的笔记
+# 我的笔记

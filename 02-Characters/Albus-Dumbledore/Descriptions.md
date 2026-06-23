@@ -8,14 +8,18 @@
 
 ### From [[Chapter_01]]
 
-- > He was tall, thin, and very old, judging by the silver of his hair and beard, which were both long enough to tuck into his belt.
-- > He was wearing long robes, a purple cloak that swept the ground, and high-heeled, buckled boots.
-- > His blue eyes were light, bright, and sparkling behind half-moon spectacles and his nose was very long and crooked, as though it had been broken at least twice.
-- > the twinkling light that usually shone from Dumbledore's eyes
-- > [McGonagall → Dumbledore] "Everyone knows you're the only one You-Know- oh, all right, Voldemort, was frightened of."
-- > [McGonagall → Dumbledore] "Only because you're too — well — noble to use them."
+-  He was tall, thin, and very old, judging by the silver of his hair and beard, which were both long enough to tuck into his belt.
+-  He was wearing long robes, a purple cloak that swept the ground, and high-heeled, buckled boots.
+-  His blue eyes were light, bright, and sparkling behind half-moon spectacles and his nose was very long and crooked, as though it had been broken at least twice.
+-  the twinkling light that usually shone from Dumbledore's eyes
+-  [McGonagall → Dumbledore] "Everyone knows you're the only one You-Know- oh, all right, Voldemort, was frightened of."
+-  [McGonagall → Dumbledore] "Only because you're too — well — noble to use them."
 
 <!-- AI-MANAGED-END -->
 
-## 我的笔记
+# 我的笔记
 <!-- 你的观察、疑问、人物理解 -->
+又高又瘦、银白头发胡须非常长、紫色斗篷+高跟带扣靴。
+蓝眼睛在半月形的眼镜后面浅淡、明亮、闪烁着光芒。
+鼻子又长又弯，像是至少断过两次。
+邓布利多眼中常有的那种闪烁的光芒

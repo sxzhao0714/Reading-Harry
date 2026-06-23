@@ -4,6 +4,13 @@ universe: canon
 editable: false
 cn_name: 哈利波特与魔法石
 en_name: Harry Potter and the Philosopher's Stone
+last_analyzed: 2026-06-22
+status: analyzed
+characters_in_chapter:
+  - Harry-Potter
+  - Vernon-Dursley
+  - Petunia-Dursley
+  - Dudley-Dursley
 ---
 ---
 
@@ -207,4 +214,409 @@ He’d lived with the Dursleys almost ten years, ten <mark class="eme-highlight 
 
 When he had been younger, Harry had dreamed and dreamed of some unknown relation coming to take him away, but it had never happened; the Dursleys were his only family. Yet sometimes he thought (or maybe hoped) that strangers in the street seemed to know him. Very strange strangers they were, too. A tiny man in a violet top hat had bowed to him once while out shopping with Aunt Petunia and Dudley. After asking Harry <mark class="eme-highlight eme-h-yellow" data-id="452acb77-4a98-4300-a216-7eeb8cde82f1">furiously</mark> if he knew the man, Aunt Petunia had rushed them out of the shop without buying anything. A <mark class="eme-highlight eme-h-yellow" data-id="980cad12-ae42-4ec8-8991-34ab075e2dc9">wild-looking</mark> old woman dressed all in green had waved <mark class="eme-highlight eme-h-yellow" data-id="d506d00c-210a-4d4c-9c64-d92091518c68">merrily</mark> at him once on a bus. A <mark class="eme-highlight eme-h-yellow" data-id="ac26c57d-1de1-471a-b253-7fbae3ef8603">bald</mark> man in a very long purple coat had actually shaken his hand in the street the other day and then walked away without a word. The <mark class="eme-highlight eme-h-yellow" data-id="211aac2d-2204-4b0b-9141-acc760bc1c4e">weirdest</mark> thing about all these people was the way they seemed to <mark class="eme-highlight eme-h-yellow" data-id="6b378b72-385e-4225-8b67-f66a6fca240e">vanish</mark> the second Harry tried to get a closer look.
 
-At school, Harry had no one. Everybody knew that Dudley’s gang hated that odd Harry Potter in his baggy old clothes and broken glasses, and nobody liked to disagree with Dudley’s gang.
+At school, Harry had no one. Everybody knew that Dudley's gang hated that odd Harry Potter in his baggy old clothes and broken glasses, and nobody liked to disagree with Dudley's gang.
+
+## AI 总结 Summary
+
+<!-- AI-SUMMARY-START -->
+<!-- 此区块由 TRAE 自动生成。修改后请在该条目末尾加 [edited]，AI 重跑时会跳过 -->
+
+### 生词（Yellow）
+
+- **brass** /bræs/ n. 黄铜；黄铜制品
+  - 例: "the brass number four on the Dursleys' front door"
+- **fateful** /ˈfeɪtfəl/ adj. 决定性的；命中注定的
+  - 例: "that fateful news report about the owls"
+- **mantelpiece** /ˈmæntəlpiːs/ n. 壁炉台
+  - 例: "the photographs on the mantelpiece"
+- **bonnets** /ˈbɒnɪts/ n. 婴儿帽（bonnet 复数）
+  - 例: "wearing different-colored bonnets"
+- **carousel** /ˌkærəˈsel/ n. 旋转木马
+  - 例: "on a carousel at the fair"
+- **shrill** /ʃrɪl/ adj. 尖声的；刺耳的
+  - 例: "her shrill voice"
+- **rapped** /ræpt/ v. 急叩；砰砰地敲（rap 过去式）
+  - 例: "His aunt rapped on the door again"
+- **screeched** /skriːtʃt/ v. 尖叫
+  - 例: "'Up!' she screeched"
+- **frying pan** /ˈfraɪɪŋ pæn/ n. 煎锅
+  - 例: "the sound of the frying pan being put on the stove"
+- **stove** /stoʊv/ n. 炉子；灶
+  - 例: "put on the stove"
+- **demanded** /dɪˈmændɪd/ v. 质问；查问
+  - 例: "'Are you up yet?' she demanded"
+- **cupboard** /ˈkʌpbərd/ n. 橱柜；碗柜
+  - 例: "the cupboard under the stairs was full of them, and that was where he slept"
+  - 笔记：哈利的"卧室"，楼梯下的储物间。
+- **beneath** /bɪˈniːθ/ prep. 在…之下
+  - 例: "The table was almost hidden beneath all Dudley's birthday presents"
+- **racing bike** /ˈreɪsɪŋ baɪk/ n. 赛车（自行车）
+  - 例: "the second television and the racing bike"
+- **punching bag** /ˈpʌntʃɪŋ bæɡ/ n. 沙袋；出气筒
+  - 例: "Dudley's favorite punching bag was Harry"
+- **skinny** /ˈskɪni/ adj. 瘦的
+  - 例: "Harry had always been small and skinny for his age"
+- **knobbly** /ˈnɒbli/ adj. 骨节突出的；多节的
+  - 例: "knobbly knees"
+- **Scotch tape** /skɒtʃ teɪp/ n. 透明胶带
+  - 例: "held together with a lot of Scotch tape"
+- **barked** /bɑːrkt/ v. 厉声说；咆哮
+  - 例: "'Comb your hair!' he barked"
+- **smoothly** /ˈsmuːðli/ adv. 平整地；顺滑地
+  - 例: "thick blond hair that lay smoothly on his thick, fat head"
+- **thick** /θɪk/ adj. 浓密的；厚的
+  - 例: "his thick, fat head"
+- **wig** /wɪɡ/ n. 假发
+  - 例: "Dudley looked like a pig in a wig"
+- **tantrum** /ˈtæntrəm/ n. 发脾气；耍赖
+  - 例: "a huge Dudley tantrum coming on"
+- **scented** /ˈsentɪd/ v. 察觉；嗅出（scent 过去式）
+  - 例: "Aunt Petunia obviously scented danger, too"
+- **parcel** /ˈpɑːrsəl/ n. 包裹
+  - 例: "grabbed the nearest parcel"
+- **chuckled** /ˈtʃʌkld/ v. 轻声笑；暗笑
+  - 例: "Uncle Vernon chuckled"
+- **ruffled** /ˈrʌfld/ v. 弄乱（头发）
+  - 例: "He ruffled Dudley's hair"
+- **unwrap** /ʌnˈræp/ v. 拆开（包装）
+  - 例: "watched Dudley unwrap the racing bike"
+- **wristwatch** /ˈrɪstwɒtʃ/ n. 手表
+  - 例: "ripping the paper off a gold wristwatch"
+- **cabbage** /ˈkæbɪdʒ/ n. 卷心菜
+  - 例: "The whole house smelled of cabbage"
+- **furiously** /ˈfjʊriəsli/ adv. 狂怒地
+  - 例: "looking furiously at Harry"
+- **nasty** /ˈnæsti/ adj. 令人不快的；恶意的
+  - 例: "something very nasty that couldn't understand them, like a slug"
+- **snarled** /snɑːrld/ v. 咆哮着说
+  - 例: "'And come back and find the house in ruins?' she snarled"
+- **wailed** /weɪld/ v. 嚎啕；大哭
+  - 例: "screwed up his face and wailed"
+- **spoil** /spɔɪl/ v. 搞砸；破坏
+  - 例: "Mummy won't let him spoil your special day"
+- **sobs** /sɒbz/ n. 抽泣；啜泣
+  - 例: "between huge, pretend sobs"
+- **grin** /ɡrɪn/ n. 咧嘴笑
+  - 例: "He shot Harry a nasty grin"
+- **gap** /ɡæp/ n. 缝隙
+  - 例: "through the gap in his mother's arms"
+- **frantically** /ˈfræntɪkli/ adv. 慌张地；疯狂地
+  - 例: "said Aunt Petunia frantically"
+- **scrawny** /ˈskrɔːni/ adj. 骨瘦如柴的
+  - 例: "Piers was a scrawny boy with a face like a rat"
+- **maniacs** /ˈmeɪniæks/ n. 疯子（maniac 复数）
+  - 例: "roaring along like maniacs"
+- **overtook** /ˌoʊvərˈtʊk/ v. 超车（overtake 过去式）
+  - 例: "a motorcycle overtook them"
+- **gigantic** /dʒaɪˈɡæntɪk/ adj. 巨大的
+  - 例: "his face like a gigantic beet with a mustache"
+- **beet** /biːt/ n. 甜菜
+  - 例: "a gigantic beet with a mustache"
+- **sniggered** /ˈsnɪɡərd/ v. 窃笑；暗笑
+  - 例: "Dudley and Piers sniggered"
+- **entrance** /ˈentrəns/ n. 入口
+  - 例: "large chocolate ice creams at the entrance"
+- **van** /væn/ n. 售卖车；面包车
+  - 例: "the smiling lady in the van"
+- **licking** /ˈlɪkɪŋ/ v. 舔
+  - 例: "licking it as they watched a gorilla"
+- **gorilla** /ɡəˈrɪlə/ n. 大猩猩
+  - 例: "watched a gorilla scratching its head"
+- **scratching** /ˈskrætʃɪŋ/ v. 挠
+  - 例: "a gorilla scratching its head"
+- **remarkably** /rɪˈmɑːrkəbli/ adv. 惊人地；出奇地
+  - 例: "looked remarkably like Dudley"
+- **knickerbocker glory** /ˈnɪkərbɒkər ˈɡlɔːri/ n. 圣代冰淇淋
+  - 例: "his knickerbocker glory didn't have enough ice cream on top"
+  - 笔记：英式经典冰淇淋甜点。
+- **reptile** /ˈreptaɪl/ n. 爬行动物
+  - 例: "they went to the reptile house"
+- **lizards** /ˈlɪzərdz/ n. 蜥蜴（lizard 复数）
+  - 例: "all sorts of lizards and snakes"
+- **slithering** /ˈslɪðərɪŋ/ v. 蜿蜒爬行
+  - 例: "snakes were crawling and slithering over bits of wood and stone"
+- **pythons** /ˈpaɪθənz/ n. 蟒蛇（python 复数）
+  - 例: "thick, man-crushing pythons"
+- **glistening** /ˈɡlɪsənɪŋ/ adj. 闪闪发光的
+  - 例: "the glistening brown coils"
+- **coils** /kɔɪlz/ n. 盘绕的圈（coil 复数）
+  - 例: "the glistening brown coils"
+- **whined** /waɪnd/ v. 哼哼唧唧地抱怨
+  - 例: "'Make it move,' he whined at his father"
+- **tapped** /tæpt/ v. 轻拍
+  - 例: "Uncle Vernon tapped on the glass"
+- **budge** /bʌdʒ/ v. 移动；让步
+  - 例: "the snake didn't budge"
+- **smartly** /ˈsmɑːrtli/ adv. 用力地；利落地
+  - 例: "rapped the glass smartly with his knuckles"
+- **knuckles** /ˈnʌklz/ n. 指关节
+  - 例: "with his knuckles"
+- **snoozed** /snuːzd/ v. 打盹
+  - 例: "the snake just snoozed on"
+- **moaned** /moʊnd/ v. 抱怨
+  - 例: "'This is boring,' Dudley moaned"
+- **intently** /ɪnˈtentli/ adv. 专注地
+  - 例: "looked intently at the snake"
+- **boredom** /ˈbɔːrdəm/ n. 无聊
+  - 例: "died of boredom itself"
+- **drumming** /ˈdrʌmɪŋ/ v. 敲击
+  - 例: "stupid people drumming their fingers on the glass"
+- **hammering** /ˈhæmərɪŋ/ v. 重重地敲
+  - 例: "Aunt Petunia hammering on the door to wake you up"
+- **beady** /ˈbiːdi/ adj. 小而亮的
+  - 例: "The snake suddenly opened its beady eyes"
+- **plainly** /ˈpleɪnli/ adv. 明白地；清楚地
+  - 例: "It gave Harry a look that said quite plainly"
+- **murmured** /ˈmɜːrmd/ v. 低声说
+  - 例: "'I know,' Harry murmured through the glass"
+- **annoying** /əˈnɔɪɪŋ/ adj. 烦人的
+  - 例: "It must be really annoying"
+- **vigorously** /ˈvɪɡərəsli/ adv. 用力地；起劲地
+  - 例: "The snake nodded vigorously"
+- **jabbed** /dʒæbd/ v. 戳
+  - 例: "The snake jabbed its tail at a little sign"
+- **peered** /pɪərd/ v. 眯眼细看
+  - 例: "Harry peered at it"
+- **Boa Constrictor** /ˈboʊə kənˈstrɪktər/ n. 蟒蛇（红尾蚺）
+  - 例: "Boa Constrictor, Brazil"
+- **specimen** /ˈspesɪmən/ n. 标本；个体
+  - 例: "This specimen was bred in the zoo"
+- **deafening** /ˈdefənɪŋ/ adj. 震耳欲聋的
+  - 例: "a deafening shout behind Harry"
+- **waddling** /ˈwɒdlɪŋ/ v. 摇摇摆摆地走
+  - 例: "Dudley came waddling toward them"
+- **concrete** /ˈkɒnkriːt/ n. 水泥地
+  - 例: "Harry fell hard on the concrete floor"
+- **howls** /haʊlz/ n. 嚎叫
+  - 例: "they had leapt back with howls of horror"
+- **gasped** /ɡæspt/ v. 倒吸一口气
+  - 例: "Harry sat up and gasped"
+- **vanished** /ˈvænɪʃt/ v. 消失
+  - 例: "the glass front of the boa constrictor's tank had vanished"
+- **uncoiling** /ʌnˈkɔɪlɪŋ/ v. 舒展开
+  - 例: "The great snake was uncoiling itself rapidly"
+- **rapidly** /ˈræpɪdli/ adv. 迅速地
+  - 例: "uncoiling itself rapidly"
+- **throughout** /θruːˈaʊt/ prep. 遍及
+  - 例: "People throughout the reptile house screamed"
+- **slid** /slɪd/ v. 滑行（slide 过去式）
+  - 例: "the snake slid swiftly past him"
+- **swiftly** /ˈswɪftli/ adv. 迅速地
+  - 例: "the snake slid swiftly past him"
+- **hissing** /ˈhɪsɪŋ/ adj. 嘶嘶的
+  - 例: "a low, hissing voice said"
+- **amigo** /əˈmiːɡoʊ/ n. 朋友（西班牙语）
+  - 例: "Thanksss, amigo"
+- **keeper** /ˈkiːpər/ n. 看守人；饲养员
+  - 例: "The keeper of the reptile house was in shock"
+- **gibber** /ˈdʒɪbər/ v. 语无伦次地说
+  - 例: "Piers and Dudley could only gibber"
+- **snap** /snæp/ v. 咬
+  - 例: "the snake hadn't done anything except snap playfully at their heels"
+- **playfully** /ˈpleɪfəli/ adv. 顽皮地
+  - 例: "snap playfully at their heels"
+- **swearing** /ˈswerɪŋ/ v. 发誓说；信誓旦旦地说
+  - 例: "Piers was swearing it had tried to squeeze him to death"
+- **squeeze** /skwiːz/ v. 挤压
+  - 例: "tried to squeeze him to death"
+- **collapsed** /kəˈlæpst/ v. 瘫倒
+  - 例: "he collapsed into a chair"
+- **sneaking** /ˈsniːkɪŋ/ v. 偷偷溜
+  - 例: "he couldn't risk sneaking to the kitchen for some food"
+- **miserable** /ˈmɪzərəbəl/ adj. 悲惨的；痛苦的
+  - 例: "ten miserable years"
+- **forbidden** /fərˈbɪdən/ adj. 被禁止的
+  - 例: "he was forbidden to ask questions"
+- **wild-looking** /waɪld ˈlʊkɪŋ/ adj. 样子狂野的
+  - 例: "A wild-looking old woman dressed all in green"
+- **merrily** /ˈmerəli/ adv. 愉快地
+  - 例: "had waved merrily at him once on a bus"
+- **bald** /bɔːld/ adj. 秃头的
+  - 例: "A bald man in a very long purple coat"
+- **weirdest** /wɪərdɪst/ adj. 最奇怪的（weird 最高级）
+  - 例: "The weirdest thing about all these people"
+- **vanish** /ˈvænɪʃ/ v. 消失
+  - 例: "the way they seemed to vanish the second Harry tried to get a closer look"
+
+### 精彩表达（Blue）
+
+- **with a start**
+  - 含义：猛然一惊
+  - 用法：with a start，表示突然惊醒或惊起
+  - 模仿：He woke with a start when the door slammed shut.
+- **a funny feeling**
+  - 含义：一种奇怪的感觉
+  - 用法：have a funny feeling，表示隐约觉得某事
+  - 模仿：I have a funny feeling we've met before.
+- **Harry groaned**
+  - 含义：哈利呻吟了一声
+  - 用法：groan 表示因不快或痛苦而发出低沉声音
+  - 模仿：She groaned when she saw the pile of homework.
+- **snapped through the door**
+  - 含义：隔着门厉声说
+  - 用法：snap 表示怒声说，through the door 隔着门
+  - 模仿：Mom snapped through the door, "Turn off that music!"
+- **His face fell**
+  - 含义：他的脸垮了下来
+  - 用法：one's face falls，表示因失望而表情沉下来
+  - 模仿：His face fell when he heard the bad news.
+- **wolfing down**
+  - 含义：狼吞虎咽
+  - 用法：wolf down，形容快速大量地吃
+  - 模仿：He wolfed down his breakfast and rushed out the door.
+- **heart gave a leap**
+  - 含义：心猛地一跳
+  - 用法：one's heart gives a leap，表示因惊喜或紧张而心跳加速
+  - 模仿：Her heart gave a leap when she saw the results.
+- **laughed himself silly**
+  - 含义：笑得前仰后合
+  - 用法：laugh oneself silly，表示笑得不可开交
+  - 模仿：The kids laughed themselves silly at the clown's antics.
+- **flinging her arms around him**
+  - 含义：一把搂住他
+  - 用法：fling one's arms around sb，表示猛地张开双臂抱住某人
+  - 模仿：She flung her arms around her father when he came home.
+- **all over the place**
+  - 含义：到处都是；乱七八糟
+  - 用法：all over the place，形容杂乱、四处散落
+  - 模仿：His hair was all over the place after the wind.
+
+### 句型 / 语法（Green）
+
+- **on the same tidy**（句型）
+  - 含义：在同样整洁的…
+  - 结构 / 用法：on the + adj.，用于强调某天的特征，文学性表达
+  - 例：On the same tidy street, nothing had changed.
+- **lit up**（短语动词）
+  - 含义：照亮
+  - 结构 / 用法：light up，照亮某物
+  - 例：The sunrise lit up the whole valley.
+- **crept into**（短语动词）
+  - 含义：悄悄爬进；悄然进入
+  - 结构 / 用法：creep into，表示缓慢、不易察觉地进入
+  - 例：Dawn crept into the room through the curtains.
+- **at the fair**（短语）
+  - 含义：在游乐场/集市上
+  - 结构 / 用法：at the fair，fair 指游乐场或集市
+  - 例：The children won a prize at the fair.
+- **held no sign**（句型）
+  - 含义：没有任何迹象
+  - 结构 / 用法：hold no sign，表示没有留下任何痕迹
+  - 例：The room held no sign of the struggle that had taken place.
+- **rolled onto his back**（短语动词）
+  - 含义：翻了个身仰面躺着
+  - 结构 / 用法：roll onto one's back，翻身成仰卧
+  - 例：He rolled onto his back and stared at the ceiling.
+- **get a move on**（习语）
+  - 含义：快点；赶快
+  - 结构 / 用法：get a move on，口语催促
+  - 例：Get a move on, or we'll be late!
+- **went down the hall**（短语）
+  - 含义：沿着走廊走
+  - 结构 / 用法：go down the hall，down 表示沿着
+  - 例：She went down the hall to the bathroom.
+- **Harry didn't look it, but he was very fast.**（句型）
+  - 含义：哈利看起来不像，但他跑得很快
+  - 结构 / 用法：not look it，表示看起来不像实际那样
+  - 例：He doesn't look it, but he's a professional boxer.
+- **held together with**（短语动词）
+  - 含义：用…固定在一起
+  - 结构 / 用法：hold together with，用某物维系/固定
+  - 例：The broken vase was held together with glue.
+- **wasn't much room**（句型）
+  - 含义：没多少空间
+  - 结构 / 用法：not much room，表示空间有限
+  - 例：There wasn't much room in the elevator.
+- **Atta boy**（感叹语）
+  - 含义：好小子！干得好！
+  - 结构 / 用法：Atta boy，口语，"That's the boy"的缩略，用于鼓励男孩
+  - 例：Atta boy, you did it!
+- **for a change**（习语）
+  - 含义：换个花样；破例一次
+  - 结构 / 用法：for a change，表示与往常不同
+  - 例：Let's eat out for a change.
+- **have a go**（短语动词）
+  - 含义：试一试
+  - 结构 / 用法：have a go (at sth)，尝试做某事
+  - 例：Can I have a go at playing the guitar?
+- **blow up**（短语动词）
+  - 含义：炸毁；炸掉
+  - 结构 / 用法：blow up，使爆炸
+  - 例：The terrorists tried to blow up the bridge.
+- **screwed up his face**（短语）
+  - 含义：皱起脸
+  - 结构 / 用法：screw up one's face，扭曲面部表情，常指假哭或痛苦
+  - 例：The baby screwed up his face and started to cry.
+- **puff balls**（名词）
+  - 含义：绒球
+  - 结构 / 用法：puff balls，衣服上的装饰绒球
+  - 例：The hat was decorated with puff balls.
+- **right up**（短语）
+  - 含义：紧贴着；直接靠近
+  - 结构 / 用法：right up close to，right 强调"直接、就"
+  - 例：He walked right up to the door and knocked.
+- **funny business**（习语）
+  - 含义：胡闹；搞鬼
+  - 结构 / 用法：funny business，指不规矩、可疑的行为
+  - 例：No funny business, or you'll be sorry.
+- **no good**（习语）
+  - 含义：没用；无济于事
+  - 结构 / 用法：it's no good doing sth，做某事没有用
+  - 例：It's no good arguing with him.
+- **the young hoodlums**（名词短语）
+  - 含义：那些小流氓
+  - 结构 / 用法：hoodlum，指流氓、小混混
+  - 例：The shopkeeper chased the young hoodlums away.
+- **hurry him away**（短语动词）
+  - 含义：匆忙把他带走
+  - 结构 / 用法：hurry sb away，急忙把某人拉走
+  - 例：She hurried the child away from the crowd.
+- **shuffled away**（短语动词）
+  - 含义：拖着脚步走开
+  - 结构 / 用法：shuffle away，shuffle 指拖着脚走
+  - 例：He shuffled away in disappointment.
+- **Caught by surprise**（短语）
+  - 含义：猝不及防
+  - 结构 / 用法：caught by surprise，被动结构，被突然袭击
+  - 例：Caught by surprise, she dropped the tray.
+- **leapt back**（短语动词）
+  - 含义：向后跳开
+  - 结构 / 用法：leap back，leap 表示跳跃
+  - 例：He leapt back when the dog barked.
+- **strong, sweet tea**（短语）
+  - 含义：又浓又甜的茶
+  - 结构 / 用法：adj + adj + noun，并列形容词修饰名词
+  - 例：She made him a cup of strong, sweet tea.
+- **managed to say**（短语动词）
+  - 含义：勉强说出
+  - 结构 / 用法：manage to do，勉强做到某事
+  - 例：He was so shocked he could barely manage to say a word.
+- **much later**（短语）
+  - 含义：很久以后
+  - 结构 / 用法：much later，表示时间相隔很久
+  - 例：Much later, he found out the truth.
+- **strained his memory**（短语）
+  - 含义：努力回忆
+  - 结构 / 用法：strain one's memory，竭力回忆
+  - 例：He strained his memory but couldn't remember her name.
+
+### 标注（Pink）
+
+（本章无）
+
+### 本章人物动态
+
+出场角色（白名单内）：Harry Potter、Vernon Dursley、Petunia Dursley、Dudley Dursley
+
+提及但未登场（白名单内）：James Potter、Lily Potter（哈利回忆父母死于车祸，闪过绿光与额头灼痛的记忆）
+
+提及（白名单外）：Mrs. Figg（腿骨折了）、Piers Polkiss（达力好友）、Auntie Marge（玛姬姑妈）、Yvonne（佩妮的朋友）、动物园饲养员、动物园园长
+
+剧情要点：达力生日这天，哈利被迫一同前往动物园。在爬虫馆，哈利发现一条蟒蛇能听懂他说话并与他交流，随后玻璃隔板凭空消失，蟒蛇逃出。哈利因此被德思礼关进碗柜禁食。本章揭示了哈利身上的奇异能力——无法控制的魔法在情绪波动时自发显现。
+
+<!-- AI-SUMMARY-END -->
+
+
+## 我的笔记 My Notes
+
+<!-- 自由写感想、疑问、跨章节联想。AI 永不修改此区。 -->

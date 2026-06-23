@@ -8,12 +8,14 @@
 
 ### From [[Chapter_01]]
 
-- > a rather severe-looking woman who was wearing square glasses exactly the shape of the markings the cat had had around its eyes.
-- > She, too, was wearing a cloak, an emerald one.
-- > Her black hair was drawn into a tight bun.
-- > She looked distinctly ruffled.
+-  a rather severe-looking woman who was wearing square glasses exactly the shape of the markings the cat had had around its eyes.
+-  She, too, was wearing a cloak, an emerald one.
+-  Her black hair was drawn into a tight bun.
+-  She looked distinctly ruffled.
 
 <!-- AI-MANAGED-END -->
 
-## 我的笔记
+# 我的笔记
 <!-- 你的观察、疑问、人物理解 -->
+神情相当严厉。方形眼镜。
+翠绿色斗篷，黑发紧紧地挽成一个发髻。
