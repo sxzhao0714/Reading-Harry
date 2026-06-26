@@ -23,6 +23,13 @@
 - > [旁白] "There were no photographs of them in the house."
   事实：德思礼家中没有詹姆·波特的任何照片
 
+### From [[Chapter_04]] · Mentioned
+
+- > [Petunia 述] "she met that Potter at school and they left and got married and had you"
+  事实：詹姆与莉莉在霍格沃茨相识，婚后生下哈利
+- > [Hagrid 述] "How could a car crash kill Lily an' James Potter?"
+  事实：海格驳斥车祸说，暗示詹姆死于伏地魔之手
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

@@ -32,6 +32,10 @@
 -  "It's Monday," he told his mother. "The Great Humberto's on tonight. I want to stay somewhere with a television."
 -  "Who on earth wants to talk to you this badly?" Dudley asked Harry in amazement.
 
+### From [[Chapter_04]]
+
+-  "Where's the cannon?" he said stupidly.
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

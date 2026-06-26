@@ -13,6 +13,10 @@
 -  Her black hair was drawn into a tight bun.
 -  She looked distinctly ruffled.
 
+### From [[Chapter_04]] · Mentioned
+
+- > [Letter → McGonagall] "Minerva McGonagall, Deputy Headmistress"
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

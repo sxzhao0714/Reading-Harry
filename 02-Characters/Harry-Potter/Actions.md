@@ -44,6 +44,21 @@
 -  He lay and watched his birthday tick nearer, wondering if the Dursleys would remember at all, wondering where the letter writer was now.
 -  Harry sat bolt upright, staring at the door.
 
+### From [[Chapter_04]]
+
+-  Harry opened it with trembling fingers.
+-  He [Harry] meant to say thank you, but the words got lost on the way to his mouth, and what he said instead was, "Who are you?"
+-  Harry stretched out his hand at last to take the yellowish envelope
+-  Questions exploded inside Harry's head like fireworks and he couldn't decide which to ask first.
+-  After a few minutes he stammered, "What does it mean, they await my owl?"
+-  Harry realized his mouth was open and closed it quickly.
+-  Harry had gone very white. As soon as he found his voice he said, "Blown up? You told me they died in a car crash!"
+-  Something very painful was going on in Harry's mind. As Hagrid's story came to a close, he saw again the blinding flash of green light, more clearly than he had ever remembered it before — and he remembered something else, for the first time in his life: a high, cold, cruel laugh.
+-  Harry thought this was going a bit far. He had been to school, after all, and his marks weren't bad.
+-  Now he came to think about it … every odd thing that had ever made his aunt and uncle furious with him had happened when he, Harry, had been upset or angry … chased by Dudley's gang, he had somehow found himself out of their reach … dreading going to school with that ridiculous haircut, he'd managed to make it grow back … and the very last time Dudley had hit him, hadn't he got his revenge, without even realizing he was doing it? Hadn't he set a boa constrictor on him?
+-  Harry looked back at Hagrid, smiling, and saw that Hagrid was positively beaming at him.
+-  Harry, meanwhile, still had questions to ask, hundreds of them.
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

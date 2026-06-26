@@ -20,6 +20,17 @@
 -  Dumbledore turned and walked back down the street. On the corner he stopped and took out the silver Put-Outer. He clicked it once
 -  He turned on his heel and with a swish of his cloak, he was gone.
 
+### From [[Chapter_04]] · Mentioned
+
+- > [Hagrid 述] "I was there! I saw Dumbledore leave it, Dursley!"
+  事实：邓布利多当年把信留在婴儿哈利身边
+- > [Hagrid 述] "Never told him what was in the letter Dumbledore left fer him?"
+  事实：邓布利多曾留信交代哈利身世
+- > [Hagrid 述] "Dumbledore told me there might be trouble gettin' hold of yeh"
+  事实：邓布利多派海格来接哈利并告知可能遇阻
+- > [Hagrid 述] "But Dumbledore let me stay on as gamekeeper."
+  事实：邓布利多在海格被开除后留他做猎场看守
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

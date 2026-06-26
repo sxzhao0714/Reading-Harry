@@ -21,6 +21,10 @@
 -  Professor McGonagall blew her nose in reply.
 -  Professor McGonagall blinked furiously
 
+### From [[Chapter_04]] · Mentioned
+
+（本章无）
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

@@ -37,6 +37,15 @@
 -  Dudley snored
 -  Dudley's snores were drowned by the low rolls of thunder
 
+### From [[Chapter_04]]
+
+-  Dudley jerked awake.
+-  Dudley squeaked and ran to hide behind his mother, who was crouching, terrified, behind Uncle Vernon.
+-  Dudley sat frozen with fear.
+-  Dudley fidgeted a little.
+-  Dudley was dancing on the spot with his hands clasped over his fat bottom, howling in pain.
+-  When he turned his back on them, Harry saw a curly pig's tail poking through a hole in his trousers.
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

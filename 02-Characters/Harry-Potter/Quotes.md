@@ -29,6 +29,26 @@
 -  "It was not a mistake," said Harry angrily, "it had my cupboard on it."
 -  "Why?" said Harry.
 
+### From [[Chapter_04]]
+
+-  "Who are you?"
+-  "Er — no," said Harry.
+-  "I know some things," he said. "I can, you know, do math and stuff."
+-  "What world?"
+-  "What? My — my mom and dad weren't famous, were they?"
+-  "Could you write it down?" Harry suggested.
+-  "What does it mean, they await my owl?"
+-  "A what?" said Harry, interested.
+-  "You knew?" said Harry. "You knew I'm a — a wizard?"
+-  "Blown up? You told me they died in a car crash!"
+-  "But why? What happened?" Harry asked urgently.
+-  "Who?"
+-  "Why not?"
+-  "But what happened to Vol-, sorry — I mean, You-Know-Who?"
+-  "Hagrid," he said quietly, "I think you must have made a mistake. I don't think I can be a wizard."
+-  "Why aren't you supposed to do magic?" asked Harry.
+-  "Why were you expelled?"
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

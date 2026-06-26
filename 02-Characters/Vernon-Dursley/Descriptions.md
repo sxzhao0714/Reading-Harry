@@ -25,6 +25,10 @@
 -  He looked so dangerous with half his mustache missing
 -  Uncle Vernon sat down at the breakfast table looking tired and rather ill, but happy.
 
+### From [[Chapter_04]]
+
+-  A braver man than Vernon Dursley would have quailed under the furious look Hagrid now gave him
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

@@ -33,6 +33,12 @@
 -  Aunt Petunia shredded the letters in her food mixer.
 -  Aunt Petunia found a few moldy blankets in the second room and made up a bed for Dudley on the moth-eaten sofa.
 
+### From [[Chapter_04]]
+
+-  who [Aunt Petunia] was crouching, terrified, behind Uncle Vernon.
+-  Aunt Petunia gave a gasp of horror.
+-  She stopped to draw a deep breath and then went ranting on.
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

@@ -10,6 +10,17 @@
 
 （本章无）
 
+### From [[Chapter_04]] · Mentioned
+
+- > [Hagrid → Lily] "yeh've got yer mom's eyes"
+  含义：哈利继承了母亲莉莉的眼睛
+- > [Hagrid → Lily] "yer mum an' dad were as good a witch an' wizard as I ever knew. Head boy an' girl at Hogwarts in their day!"
+- > [Petunia → Lily] "my dratted sister being what she was"
+- > [Petunia → Lily] "she got a letter just like that and disappeared off to that — that school — and came home every vacation with her pockets full of frog spawn, turning teacups into rats"
+- > [Petunia → Lily] "I was the only one who saw her for what she was — a freak!"
+- > [Petunia → Lily] "it was Lily this and Lily that, they were proud of having a witch in the family!"
+- > [Hagrid → Lily] "knew yer mum an' dad, an' nicer people yeh couldn't find"
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

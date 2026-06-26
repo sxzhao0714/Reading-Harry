@@ -31,6 +31,10 @@
 -  "I shall see you soon, I expect, Professor McGonagall," said Dumbledore, nodding to her.
 -  "Good luck, Harry," he murmured.
 
+### From [[Chapter_04]] · Mentioned
+
+（本章无）
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

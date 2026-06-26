@@ -54,6 +54,18 @@
 -  "I've already got us some rations," said Uncle Vernon, "so all aboard!"
 -  "Could do with some of those letters now, eh?" he said cheerfully.
 
+### From [[Chapter_04]]
+
+-  "Who's there?" he shouted. "I warn you — I'm armed!"
+-  "Don't touch anything he gives you, Dudley."
+-  "Mimblewimble," he whispered. （吓得低声念叨）
+-  "Stop!" he commanded. "Stop right there, sir! I forbid you to tell the boy anything!"
+-  "He's not going," he said.
+-  "We swore when we took him in we'd put a stop to that rubbish," said Uncle Vernon, "swore we'd stamp it out of him! Wizard indeed!"
+-  "Now, you listen here, boy," he snarled, "I accept there's something strange about you, probably nothing a good beating wouldn't have cured — and as for all this about your parents, well, they were weirdos, no denying it, and the world's better off without them in my opinion — asked for all they got, getting mixed up with these wizarding types — just what I expected, always knew they'd come to a sticky end —"
+-  "Haven't I told you he's not going?" he hissed. "He's going to Stonewall High and he'll be grateful for it. I've read those letters and he needs all sorts of rubbish — spell books and wands and —"
+-  "I AM NOT PAYING FOR SOME CRACKPOT OLD FOOL TO TEACH HIM MAGIC TRICKS!" yelled Uncle Vernon.
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

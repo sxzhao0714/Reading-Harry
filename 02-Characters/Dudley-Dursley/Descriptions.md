@@ -21,6 +21,12 @@
 
 -  Dudley paraded around the living room for the family in his brand-new uniform. Smeltings boys wore maroon tailcoats, orange knickerbockers, and flat straw hats called boaters.
 
+### From [[Chapter_04]]
+
+-  [Hagrid → Dudley] "Yer great puddin' of a son don' need fattenin' anymore, Dursley, don' worry."
+-  [Hagrid → Dudley] "Meant ter turn him into a pig, but I suppose he was so much like a pig anyway there wasn't much left ter do."
+-  a curly pig's tail poking through a hole in his trousers.
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

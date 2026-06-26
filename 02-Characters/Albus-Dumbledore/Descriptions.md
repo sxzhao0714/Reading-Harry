@@ -15,6 +15,13 @@
 -  [McGonagall → Dumbledore] "Everyone knows you're the only one You-Know- oh, all right, Voldemort, was frightened of."
 -  [McGonagall → Dumbledore] "Only because you're too — well — noble to use them."
 
+### From [[Chapter_04]] · Mentioned
+
+- > [Hagrid → Dumbledore] "Reckon Dumbledore's the only one You-Know-Who was afraid of. Didn't dare try takin' the school, not jus' then, anyway."
+- > [Hagrid → Dumbledore] "he'll be under the greatest headmaster Hogwarts ever had, Albus Dumbled—"
+- > [Hagrid → Dumbledore] "Great man, Dumbledore."
+- > [Letter → Dumbledore] "Headmaster: ALBUS DUMBLEDORE (Order of Merlin, First Class, Grand Sorc., Chf. Warlock, Supreme Mugwump, International Confed. of Wizards)"
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

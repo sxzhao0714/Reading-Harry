@@ -40,6 +40,11 @@
 -  "I'm not sure that'll work, Vernon."
 -  "Wouldn't it be better just to go home, dear?" Aunt Petunia suggested timidly
 
+### From [[Chapter_04]]
+
+-  "Knew!" shrieked Aunt Petunia suddenly. "Knew! Of course we knew! How could you not be, my dratted sister being what she was? Oh, she got a letter just like that and disappeared off to that — that school — and came home every vacation with her pockets full of frog spawn, turning teacups into rats. I was the only one who saw her for what she was — a freak! But for my mother and father, oh no, it was Lily this and Lily that, they were proud of having a witch in the family!"
+-  "Then she met that Potter at school and they left and got married and had you, and of course I knew you'd be just the same, just as strange, just as — as — abnormal — and then, if you please, she went and got herself blown up and we got landed with you!"
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

@@ -23,6 +23,17 @@
 - > [旁白] "There were no photographs of them in the house."
   事实：德思礼家中没有莉莉·波特的任何照片
 
+### From [[Chapter_04]] · Mentioned
+
+- > [Petunia 述] "she got a letter just like that and disappeared off to that — that school — and came home every vacation with her pockets full of frog spawn, turning teacups into rats"
+  事实：莉莉收到霍格沃茨信后入学，假期回家练习魔法
+- > [Petunia 述] "she met that Potter at school and they left and got married and had you"
+  事实：莉莉与詹姆在霍格沃茨相识结婚生子
+- > [Petunia 述 / 不实] "she went and got herself blown up"
+  事实：佩妮对莉莉之死的贬低说法，实际被伏地魔杀害
+- > [Hagrid 述] "How could a car crash kill Lily an' James Potter?"
+  事实：海格驳斥车祸说，暗示莉莉死于伏地魔之手
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

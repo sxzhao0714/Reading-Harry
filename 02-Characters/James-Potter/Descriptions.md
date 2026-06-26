@@ -10,6 +10,15 @@
 
 （本章无）
 
+### From [[Chapter_04]] · Mentioned
+
+- > [Hagrid → James] "Yeh look a lot like yer dad"
+  含义：哈利长相像父亲詹姆
+- > [Hagrid → James] "yer mum an' dad were as good a witch an' wizard as I ever knew. Head boy an' girl at Hogwarts in their day!"
+- > [Hagrid → James] "probably knew they were too close ter Dumbledore ter want anythin' ter do with the Dark Side"
+- > [Petunia → James] "that Potter"
+  含义：佩妮用"那个波特"贬称詹姆
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

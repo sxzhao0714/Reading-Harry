@@ -24,6 +24,13 @@
 
 -  his glasses dangling from one ear
 
+### From [[Chapter_04]]
+
+-  [Hagrid → Harry] "Yeh look a lot like yer dad, but yeh've got yer mom's eyes."
+-  [Hagrid → Harry] "Never wondered how you got that mark on yer forehead? That was no ordinary cut. That's what yeh get when a powerful, evil curse touches yeh"
+-  [Hagrid → Harry] "that's why yer famous, Harry. No one ever lived after he decided ter kill 'em, no one except you, an' he'd killed some o' the best witches an' wizards of the age — the McKinnons, the Bones, the Prewetts — an' you was only a baby, an' you lived."
+-  [Hagrid → Harry] "Harry Potter, not a wizard — you wait, you'll be right famous at Hogwarts."
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

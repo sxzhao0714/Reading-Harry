@@ -19,6 +19,10 @@
 -  Her lips tightened as they always did if he dared to ask a question.
 -  in a quivering voice
 
+### From [[Chapter_04]]
+
+-  It seemed she had been wanting to say all this for years.
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

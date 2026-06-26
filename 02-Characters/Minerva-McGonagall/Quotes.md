@@ -30,6 +30,10 @@
 -  "Is that where — ?" whispered Professor McGonagall.
 -  "Couldn't you do something about it, Dumbledore?"
 
+### From [[Chapter_04]] · Mentioned
+
+（本章无）
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记

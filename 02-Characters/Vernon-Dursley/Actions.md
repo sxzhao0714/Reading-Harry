@@ -74,6 +74,18 @@
 -  He tried to start a fire but the empty crisps packet just smoked and shriveled up.
 -  Uncle Vernon sat down at the breakfast table looking tired and rather ill, but happy.
 
+### From [[Chapter_04]]
+
+-  There was a crash behind them and Uncle Vernon came skidding into the room. He was holding a rifle in his hands
+-  Uncle Vernon made a funny rasping noise.
+-  Uncle Vernon made another funny noise, like a mouse being trodden on.
+-  Uncle Vernon, who had gone very pale, whispered something that sounded like "Mimblewimble."
+-  Uncle Vernon, still ashen-faced but looking very angry, moved into the firelight.
+-  Uncle Vernon certainly seemed to have got back his courage. He was glaring at Hagrid and his fists were clenched.
+-  In danger of being speared on the end of an umbrella by a bearded giant, Uncle Vernon's courage failed again; he flattened himself against the wall and fell silent.
+-  Uncle Vernon wasn't going to give in without a fight.
+-  Uncle Vernon roared. Pulling Aunt Petunia and Dudley into the other room, he cast one last terrified look at Hagrid and slammed the door behind them.
+
 <!-- AI-MANAGED-END -->
 
 # 我的笔记
